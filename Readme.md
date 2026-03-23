@@ -1,5 +1,4 @@
 
-# Dispersion-Compensation
 # Dispersion Compensation
 
 ## Objective
@@ -72,6 +71,12 @@ The main physical components of this layout are:
 ## Further Simulation and Analysis
 - Set the DCF length to 0 and run the simulation again.  
 - Record similar measurements for comparison.  
+
+---
+## Calculations
+
+
+<img width="1237" height="1600" alt="image" src="https://github.com/user-attachments/assets/43bf368a-5f33-4d90-bdcc-cdc8b73e90a2" />
 
 ---
 
